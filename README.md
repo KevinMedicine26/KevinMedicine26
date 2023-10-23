@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KevinMedicine26
-- 👀 I’m interested in ...CODING and Medicine
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...Medical product
-- 📫 How to reach me ...never mind
+- 👀 I’m interested in ... Medicine and Investment
+- 🌱 I’m currently learning ...JAVA
+- 💞️ I’m looking to collaborate on ...Medical Software
+- 📫 How to reach me ...kshaw@foxmail.com
 
 <!---
 KevinMedicine26/KevinMedicine26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
