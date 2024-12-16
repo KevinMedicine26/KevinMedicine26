@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Medicine and Investment
 - 🌱 I’m currently learning ...JAVA
 - 💞️ I’m looking to collaborate on ...Medical Software
-- 📫 How to reach me ...kshaw@foxmail.com
+- 📫 How to reach me ...
 
 <!---
 KevinMedicine26/KevinMedicine26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
