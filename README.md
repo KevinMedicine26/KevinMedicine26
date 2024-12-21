@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KevinMedicine26
-- 👀 I’m interested in ... Medicine and Investment
-- 🌱 I’m currently learning ...JAVA
-- 💞️ I’m looking to collaborate on ...Medical Software
+- 👀 I’m interested in ... Medicine Stuff
+- 🌱 I’m currently learning ...JAVA c# python
+- 💞️ I’m looking to collaborate on ...Bioinformatics, Medical AI , Big Data Analysis
 - 📫 How to reach me ...
 
 <!---
