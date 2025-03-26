@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KevinMedicine26
-- 👀 I’m interested in ... Medicine Stuff
-- 🌱 I’m currently learning ...JAVA c# python
-- 💞️ I’m looking to collaborate on ...Bioinformatics, Medical AI , Big Data Analysis
-- 📫 How to reach me ...
+- 👀 I’m interested in ... Medical Software, DNA RNA sequense analysis
+- 💞️ I’m looking to collaborate on ...Bioinformatics, Medical AI , Medical investment analysis, Health care data analysis
+- 📫 How to reach me ...kunshuang26@gmail.com
 
 <!---
 KevinMedicine26/KevinMedicine26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
