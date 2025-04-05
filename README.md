@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @KevinMedicine26
-- 👀 I’m interested in ... Medical Software, DNA RNA sequense analysis
-- 💞️ I’m looking to collaborate on ...Bioinformatics, Medical AI , Medical investment analysis, Health care data analysis
-- 📫 How to reach me ...kunshuang26@gmail.com
+- 👋 Hi, I’m @KevinMedicine26 ,  just call me Kevin 
+- 🚑 I’m a Medical project manager, programmer and Data scientist with 5 years clinical experience ,
+- 🎓 Education: 2 degree, MD in surgery and Master in ComputerScience
+- 👀 Skilled in Medical Software Development, DNA RNA sequense analysis , Medical Data Analysis , Clinical trial management/design , Machine learning  
+- 💞️ I’m currently looking for a job in Canada       
+- 📫 If you have interest in me, fell free to reach me through : kunshuang26@gmail.com
 
 <!---
 KevinMedicine26/KevinMedicine26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
