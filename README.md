@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @KevinMedicine26 ,  just call me Kevin 
-- 🚑 I’m a Medical project manager, programmer and Data scientist with 5 years Medical Experience ,
-- 🎓 Education: 2 degree, MD in surgery and Master in ComputerScience
-- 👀 Skilled in Medical Software Development/UI/Full stack program/Web development, DNA RNA sequense analysis , Medical Data Analysis , Clinical trial management/design , Machine learning  
-- 💞️ I’m currently looking for a job in Canada       
+- 👋 Hi, I’m @KevinMedicine26    
 - 📫 If you have interest in me, fell free to reach me through : kunshuang26@gmail.com or https://www.linkedin.com/in/kun-shuang-13ab85120/
 
 <!---
